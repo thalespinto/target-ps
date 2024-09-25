@@ -1,0 +1,2 @@
+Vamos chamar os interruptores de 1, 2 e 3. E as salas de A, B, C.
+Eu ligaria o interruptor 1 e esperaria por tempo suficiente para a lâmpada que está acesa esquente, após passar o tempo necessário desligaria o interruptor 1 e ligaria o 2. Em seguida entraria nas salas e verificaria as condições das lâmpadas, a lâmpada que estiver quente e apagada é acesa por 1, a lâmpada que estiver acesa corresponde ao interruptor 2 e a lâmpada que estiver apagada e frio corresponde ao 3.
